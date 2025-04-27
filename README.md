@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KardelenBayraktar
 - 💞️ I’m looking to collaborate on various software projects.
 - 📫 You can reach me via LinkedIn and e-mail
-- https://www.linkedin.com/in/kardelen-bayraktar-1988b8290/
+- https://www.linkedin.com/in/kardelen1bayraktar
 - kardelen.bayraktar@istun.edu.tr
 
 <!---
